@@ -1,0 +1,9 @@
+---
+- name: jewish
+  version: 0.1
+  opinion:
+    - just readme with example
+    - project dormant
+    - no tests
+    - seems to work
+    - seems to work with 3

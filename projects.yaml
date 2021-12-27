@@ -1,6 +1,7 @@
 ---
 - name: jewish
   version: 0.1
+  date_reviewed: 2021-12-27
   opinion:
     - just readme with example
     - project dormant

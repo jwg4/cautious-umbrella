@@ -8,3 +8,10 @@
     - no tests
     - seems to work
     - seems to work with 3
+- name: pyluach
+  version: 1.3.0
+  date_reviewed: 2021-12-27
+  opinion:
+    - readthedocs docs
+    - seems to work
+    - seems to work with 3
